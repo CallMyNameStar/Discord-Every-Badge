@@ -1,8 +1,7 @@
 # Discord-Every-Badge
-This is a joke "have fun" :)
-
+(It just works for you "local")
 * Used Ctrl + Shift + i
 * Paste inside discord console
 
-[![Setup](https://imgur.com/F5KsP0B)]
-[![Setup](https://imgur.com/vRUatq5)]
+[!(https://imgur.com/F5KsP0B)]
+[!(https://imgur.com/vRUatq5)]
