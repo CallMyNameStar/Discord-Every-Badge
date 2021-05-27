@@ -3,5 +3,5 @@
 * Used `Ctrl + Shift + i`
 * Paste inside discord console
 
-[Imgur](https://imgur.com/F5KsP0B)
+[img]https://i.imgur.com/F5KsP0B.png[/img]
 <img src="https://imgur.com/vRUatq5"/>
